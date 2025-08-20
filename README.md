@@ -38,7 +38,7 @@
 
 ### 📫 Contact Me  
 - ✉️ Email: [toodyannn@gmail.com](mailto:toodyannn@gmail.com)
-- - ✉️ Telegram: @toodyann
+- ✉️ Telegram: @toodyann
 
 ---
 
