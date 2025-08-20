@@ -37,7 +37,7 @@
 ---
 
 ### 📫 Contact Me  
-- ✉️ Email: [your-email@example.com](mailto:toodyannn@gmail.com)
+- ✉️ Email: [toodyannn@gmail.com](mailto:toodyannn@gmail.com)
 
 ---
 
