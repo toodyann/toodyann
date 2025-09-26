@@ -30,8 +30,9 @@
 ---
 
 ### 🚀 Projects  
-- TodTube - 1 in 1 copy YT
-- AIR_v.1 - professional site from TD 
+- 🔥 TodTube - copy of YT
+- 💨 AIR_v.1 - Website for a strategic agency.
+
 ---
 
 ### 📫 Contact Me  
