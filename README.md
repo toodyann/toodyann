@@ -29,11 +29,9 @@
 
 ---
 
-### 🚀 Featured Projects  
-- [🌟 Portfolio Website](#) – my personal portfolio  
-- [📱 FoodTracker App](#) – web app for tracking meals  
-- [⚡ Landing Page](#) – fast and responsive landing  
-
+### 🚀 Projects  
+- TodTube - 1 in 1 copy YT
+- AIR_v.1 - professional site from TD 
 ---
 
 ### 📫 Contact Me  
@@ -42,4 +40,4 @@
 
 ---
 
-⭐️ From [toodyann](https://github.com/toodyann) :))
+⭐️ From [toodyann](https://github.com/toodyann) :)
