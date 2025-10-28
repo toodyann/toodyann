@@ -30,8 +30,10 @@
 ---
 
 ### 🚀 Projects  
-- 🔥 TodTube - copy of YT
+- 🔥 TodTube - Copy of YT.
 - 💨 AIR_v.1 - Website for a strategic agency.
+- ToDoList - :)
+- TodShop - Scam Website.
 
 ---
 
