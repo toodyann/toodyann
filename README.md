@@ -31,7 +31,7 @@
 
 ### 🚀 Projects  
 - 🔥 TodTube - Copy of YT.
-- 💨 AIR_v.1 - Website for a strategic agency.
+- 💨 AIR-v.1 - Website for a strategic agency.
 - ⭐️ ToDoList - :)
 - 👽 TodShop - Scam Website.
 - 🧡 TodMusic - Top 1 of music web platform
