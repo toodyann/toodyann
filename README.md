@@ -34,7 +34,8 @@
 - 🔥 **TodTube** – YouTube-inspired platform  
 - 💨 **AIR v1** – Website for a strategic agency  
 - ⭐️ **ToDoList** – Productivity app  
-- 🧡 **TodMusic** – Music web platform  
+- 🧡 **TodMusic** – Music web platform
+- 💬 **Nymo** – New gen messenger app 
 
 ---
 
