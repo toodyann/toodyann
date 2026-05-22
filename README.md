@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,nodejs,git,github,vscode,figma" />
 </p>
 
 ---
@@ -38,19 +38,13 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=toodyann&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=toodyann&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=toodyann&theme=tokyonight&hide_border=true" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=toodyann&theme=tokyonight&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toodyann&theme=tokyonight" 
   />
 </p>
 
