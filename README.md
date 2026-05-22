@@ -1,48 +1,96 @@
 <h1 align="center">Hi there, I'm Anatolii Konovalov 👋</h1>
 
 <p align="center">
-  🌉 Front-end Developer | Building modern & responsive web apps 🚀
+  🌉 Front-end Developer • Building modern & responsive web apps 🚀
+</p>
+
+<p align="center">
+  <a href="https://github.com/toodyann">
+    <img src="https://img.shields.io/github/followers/toodyann?label=Followers&style=for-the-badge" />
+  </a>
+  
+  <a href="https://github.com/toodyann">
+    <img src="https://img.shields.io/github/stars/toodyann?affiliations=OWNER&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-### 💻 About Me  
-- 👨‍💻 Passionate about **web development** and clean UI/UX  
-- ⚡ Skilled in **HTML, CSS, JavaScript, React**  
-- 🌱 Currently learning **Advanced React patterns & performance optimization**  
+## 💻 About Me
+
+- 👨‍💻 Passionate about web development & clean UI/UX  
+- ⚡ Skilled in HTML, CSS, JavaScript, React  
+- 🌱 Currently learning advanced React patterns & optimization  
 - 🎯 Goal: Build fast, scalable & user-friendly applications  
+- 🚀 Focused on modern front-end experiences  
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toodyann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toodyann&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=toodyann&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=toodyann&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=toodyann&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
-### 🚀 Projects  
-- 🔥 **TodTube** – YouTube-inspired platform  
-- 💨 **AIR v1** – Website for a strategic agency  
-- ⭐️ **ToDoList** – Productivity app  
-- 🧡 **TodMusic** – Music web platform
-- 💬 **Nymo** – New gen messenger app 
+## 🚀 Featured Projects
+
+### 🔥 TodTube
+YouTube-inspired video platform with modern UI.
+
+### 💬 Nymo
+Next-generation messenger app built as a modern PWA.
+
+### 🎵 TodMusic
+Music streaming web platform.
+
+### ⭐️ ToDoList
+Productivity app for task management.
+
+### 💨 AIR v1
+Website for a strategic creative agency.
 
 ---
 
-### 📫 Contact Me  
-- ✉️ Email: [toodyannn@gmail.com](mailto:toodyannn@gmail.com)  
-- 💬 Telegram: @toodyann  
+## 📫 Contact Me
+
+<p align="center">
+  
+  <a href="mailto:toodyannn@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
+
+  <a href="https://t.me/toodyann">
+    <img src="https://skillicons.dev/icons?i=telegram" width="48"/>
+  </a>
+
+</p>
 
 ---
 
-⭐️ From [toodyann](https://github.com/toodyann)
+<p align="center">
+  ⭐️ From <a href="https://github.com/toodyann">toodyann</a>
+</p>
