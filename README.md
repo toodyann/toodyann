@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anatolii Konovalov 👋</h1>
+<img width="3024" height="1750" alt="image" src="https://github.com/user-attachments/assets/c598883f-0e03-45fa-99b8-c9cf2f0b21cf" /><h1 align="center">Hi there, I'm Anatolii Konovalov 👋</h1>
 
 <p align="center">
   🌉 Front-end Developer • Building modern & responsive web apps 🚀
@@ -45,6 +45,18 @@
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toodyann&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toodyann&theme=tokyonight" 
+  />
+  
+  <img 
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toodyann&theme=tokyonight" 
   />
 </p>
 
