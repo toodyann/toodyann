@@ -19,20 +19,21 @@
 ## 💻 About Me
 
 - 👨‍💻 Passionate about web development & clean UI/UX  
-- ⚡ Skilled in HTML, CSS, JavaScript, React  
-- 🌱 Currently learning advanced React patterns & optimization  
+- ⚡ Skilled in HTML, CSS, JavaScript, React, Vue  
+- 🌱 Currently learning advanced React patterns & performance optimization  
 - 🎯 Goal: Build fast, scalable & user-friendly applications  
-- 🚀 Focused on modern front-end experiences  
+- 🚀 Focused on modern front-end experiences and UI systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,nodejs,git,github,vscode,figma" />
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -49,10 +50,12 @@
 
 <p align="center">
   <img 
+    width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toodyann&theme=tokyonight" 
   />
   
   <img 
+    width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toodyann&theme=tokyonight" 
   />
 </p>
@@ -62,7 +65,7 @@
 ## 🚀 Featured Projects
 
 ### 🔥 TodTube
-YouTube-inspired video platform with modern UI.
+YouTube-inspired video platform with modern UI/UX.
 
 ### 💬 Nymo
 Next-generation messenger app built as a modern PWA.
@@ -71,7 +74,7 @@ Next-generation messenger app built as a modern PWA.
 Music streaming web platform.
 
 ### ⭐️ ToDoList
-Productivity app for task management.
+Productivity app focused on task management.
 
 ### 💨 AIR v1
 Website for a strategic creative agency.
@@ -81,7 +84,6 @@ Website for a strategic creative agency.
 ## 📫 Contact Me
 
 <p align="center">
-  
   <a href="mailto:toodyannn@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
@@ -90,6 +92,9 @@ Website for a strategic creative agency.
     <img src="https://skillicons.dev/icons?i=telegram" width="48"/>
   </a>
 
+  <a href="https://github.com/toodyann">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  </a>
 </p>
 
 ---
