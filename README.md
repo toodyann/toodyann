@@ -1,32 +1,32 @@
-<img width="3024" height="1750" alt="image" src="https://github.com/user-attachments/assets/c598883f-0e03-45fa-99b8-c9cf2f0b21cf" /><h1 align="center">Hi there, I'm Anatolii Konovalov 👋</h1>
+<h1 align="center">Hi there, I'm Anatolii Konovalov 👋</h1>
 
 <p align="center">
-  🌉 Front-end Developer • Building modern & responsive web apps 🚀
+  💻 Front-end Developer • Building modern & responsive web apps 🚀
 </p>
 
 <p align="center">
   <a href="https://github.com/toodyann">
-    <img src="https://img.shields.io/github/followers/toodyann?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/toodyann?label=Followers&style=for-the-badge&color=7c3aed" />
   </a>
   
   <a href="https://github.com/toodyann">
-    <img src="https://img.shields.io/github/stars/toodyann?affiliations=OWNER&style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/toodyann?affiliations=OWNER&style=for-the-badge&color=2563eb" />
   </a>
 </p>
 
 ---
 
-## 💻 About Me
+# 💻 About Me
 
-- 👨‍💻 Passionate about web development & clean UI/UX  
-- ⚡ Skilled in HTML, CSS, JavaScript, React, Vue  
+- 👨‍💻 Passionate about modern web development & clean UI/UX  
+- ⚡ Building fast, scalable & responsive applications  
 - 🌱 Currently learning advanced React patterns & performance optimization  
-- 🎯 Goal: Build fast, scalable & user-friendly applications  
-- 🚀 Focused on modern front-end experiences and UI systems  
+- 🎯 Focused on creating modern front-end experiences  
+- 🚀 Working on personal products & web platforms  
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,nodejs,git,github,vscode,figma" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -62,10 +62,10 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔥 TodTube
-YouTube-inspired video platform with modern UI/UX.
+YouTube-inspired platform with a modern UI/UX experience.
 
 ### 💬 Nymo
 Next-generation messenger app built as a modern PWA.
@@ -73,15 +73,15 @@ Next-generation messenger app built as a modern PWA.
 ### 🎵 TodMusic
 Music streaming web platform.
 
-### ⭐️ ToDoList
-Productivity app focused on task management.
+### ⭐ ToDoList
+Minimal productivity app for task management.
 
 ### 💨 AIR v1
-Website for a strategic creative agency.
+Modern website for a strategic creative agency.
 
 ---
 
-## 📫 Contact Me
+# 📫 Contact Me
 
 <p align="center">
   <a href="mailto:toodyannn@gmail.com">
