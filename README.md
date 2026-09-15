@@ -20,7 +20,7 @@
 
 - 👨‍💻 Passionate about modern web development & clean UI/UX  
 - ⚡ Building fast, scalable & responsive applications  
-- 🌱 Currently learning advanced React patterns & performance optimization  
+- 🌱 Currently learning advanced Vue patterns & performance optimization  
 - 🎯 Focused on creating modern front-end experiences  
 - 🚀 Working on personal products & web platforms  
 
