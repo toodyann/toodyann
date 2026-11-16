@@ -90,9 +90,7 @@ Modern website for a strategic creative agency.
   <a href="https://github.com/toodyann">
     <img src="https://skillicons.dev/icons?i=github" width="48"/>
   </a>
-</p>)))
-
----
+</p>
 
 <p align="center">
   ⭐️ From <a href="https://github.com/toodyann">toodyann</a>
